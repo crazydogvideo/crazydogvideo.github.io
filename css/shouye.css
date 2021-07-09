@@ -1,6 +1,7 @@
 .fengexian {text-align:center;}
 
-button { 
+a
+{ 
         padding:8px;  
         color: #428bca;  
         text-align: center; 
@@ -8,7 +9,8 @@ button {
         font-weight: 900; 
         font-size:125% 
       }
-     button{
+     a
+     {
         background: gold;
         border: none;
         border-radius: 40px 10px; 
